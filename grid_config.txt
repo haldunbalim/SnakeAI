@@ -1,0 +1,2 @@
+num_squares_in_row: 10
+num_squares_in_col: 10
